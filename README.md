@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://chandanakandambi.github.io/my-new-project/)
 
 ## My process
 
@@ -40,4 +40,4 @@ I realised that I needed more practise using css, being familiarised with common
 
 ## Author
 
-- Github - Chandana Kandambi (https://github.com/ChandanaKandambi/QR-Code-Component/tree/main)
+- Github - Chandana Kandambi (https://github.com/ChandanaKandambi/)
