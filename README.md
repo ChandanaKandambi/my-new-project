@@ -18,8 +18,6 @@
 ![](./screenshot.png)
 
 ### Links
-
-- Solution URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
 - Live Site URL: (https://chandanakandambi.github.io/my-new-project/)
 
 ## My process
